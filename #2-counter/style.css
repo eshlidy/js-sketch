@@ -1,0 +1,86 @@
+.app {
+    display: inline-block;
+    position: relative;
+    border: 2px #000 solid;
+    width: 420px;
+    height: 50px;
+    padding: 10px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    left: 20px;
+    top: 20px;
+    background-color: #000;                                            
+} 
+
+.js-counter {
+    display: inline-block;
+    position: relative;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 600px;
+    font-size: 32px;
+    border-radius: 20px; 
+    width: 70px;
+    text-align: center;
+    background: -webkit-linear-gradient(121deg, #b1c4d4,#764891);
+    /* Chrome 10-25, Safari 5.1-6 */                          
+    background: linear-gradient(121deg, #b1c4d4,#764891);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+    box-shadow: 3px 3px 3px 0px #fff;                                       
+}
+
+.js-increment-btn {
+    display: inline-block;
+    position: relative;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 600px;
+    font-size: 24px;
+    border-radius: 20px; 
+    margin-left: 10px;
+    width: 100px;
+    height: 45px;
+    border: none;
+    color: #fff;
+    background: -webkit-linear-gradient(121deg, #504bc9,#a41c48);
+    /* Chrome 10-25, Safari 5.1-6 */                          
+    background: linear-gradient(121deg, #504bc9,#a41c48);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+    box-shadow: 3px 3px 3px 0px #fff;                                                    
+}
+
+.js-decrement-btn {
+    display: inline-block;
+    position: relative;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 600px;
+    font-size: 24px;
+    border-radius: 20px; 
+    margin-left: 10px;
+    width: 100px;
+    height: 45px;
+    border: none;
+    color: #fff;
+    background: -webkit-linear-gradient(121deg, #504bc9,#a41c48);
+    /* Chrome 10-25, Safari 5.1-6 */                          
+    background: linear-gradient(121deg, #504bc9,#a41c48);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */      
+    box-shadow: 3px 3px 3px 0px #fff;                                                
+}
+
+.js-reset-btn {
+    display: inline-block;
+    position: relative;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 600px;
+    font-size: 24px;
+    border-radius: 20px; 
+    margin-left: 10px;
+    width: 100px;
+    height: 45px;
+    border: none;
+    color: #fff;
+    background: -webkit-linear-gradient(121deg, #504bc9,#a41c48);
+    /* Chrome 10-25, Safari 5.1-6 */                          
+    background: linear-gradient(121deg, #504bc9,#a41c48);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */        
+    box-shadow: 3px 3px 3px 0px #fff;                                              
+}
