@@ -1,0 +1,63 @@
+.calculator {
+    display: inline-block;
+    position: relative;
+    width: 300px;
+    height: 200px;
+    background-color: #000;
+    border-radius: 10px;
+    left: 20px;
+    top: 20px;
+}
+
+.js-input-a {
+    display: inline-block;
+    position: relative;
+    width: 125px;
+    height: 50px;
+    font-size: 32px;
+    left: 10px;
+    top: 10px;
+}
+
+.js-input-b {
+    display: inline-block;
+    position: relative;
+    width: 125px;
+    height: 50px;
+    font-size: 32px;
+    left: 20px;
+    top: 10px;
+}
+
+.js-select-opetarion {
+    display: inline-block;
+    position: relative;
+    width: 50px;
+    height: 50px;
+    font-size: 32px;
+    top: 20px;
+    left: 10px;
+}
+
+.js-btn-result {
+    display: inline-block;
+    position: relative;
+    width: 200px;
+    height: 50px;
+    font-size: 32px;
+    top: 20px;
+    left: 20px;
+}
+
+.js-output {
+    display: inline-block;
+    position: relative;
+    width: 275px;
+    height: 45px;
+    font-size: 32px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 5px;
+    left: 10px;
+    background-color: #fff;
+}
